@@ -1,5 +1,5 @@
 ## Whats this ???
-This is my GitHub Pages repository. It contains my github website.
+This is my GitHub Pages repository.
 
 
 ## How can I access it ?
